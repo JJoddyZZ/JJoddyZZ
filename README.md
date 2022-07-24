@@ -2,8 +2,6 @@
 
 Soy <a href="https://joddyzavala.mx">Joddy</a> :)
 
-<a href="https://twitter.com/JJoddyZZ" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@JJoddyZZ-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
 CDMX, México <img src="https://cdn-icons-png.flaticon.com/512/5372/5372848.png" width="15"/>
 
 **Cosas que me son familiares:** 
