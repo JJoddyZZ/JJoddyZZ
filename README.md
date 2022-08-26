@@ -1,8 +1,6 @@
 👋 Hi/Hola!
 
-Soy <a href="https://joddyzavala.mx">Joddy</a> :)
-
-CDMX, México <img src="https://cdn-icons-png.flaticon.com/512/5372/5372848.png" width="15"/>
+Soy Joddy :) <img src="https://cdn-icons-png.flaticon.com/512/5372/5372848.png" width="20"/>
 
 **Cosas que me son familiares:** 
 
@@ -12,8 +10,3 @@ CDMX, México <img src="https://cdn-icons-png.flaticon.com/512/5372/5372848.png"
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
-
-<!---
-JJoddyZZ/JJoddyZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
